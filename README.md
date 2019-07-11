@@ -3,7 +3,7 @@ This Python script allows the automated, vectorized georeferencing of map sheets
 
 _Heitzler M., Gkonos C., Tsorlini A., Hurni L. (2018). A modular process to improve the georeferencing of the Siegfried map. Proceedings of the 13th Conference on Digital Approaches to Cartographic Heritage (DACH), 18-20 April 2018, Madrid, Spain._
 
-The script requires three required arguments:
+The script has three required arguments:
 1. The location of the scanned, distorted map.
 2. The location of the final, georeferenced image file.
 3. The location of a shapefile containing the points of the grid intersections.
